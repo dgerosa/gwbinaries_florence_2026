@@ -34,6 +34,6 @@ I mostly follow Maggiore's textbook (*"[Gravitational waves, Volume 1: theory an
   <img src="https://what-if.xkcd.com/imgs/a/140/general.png" />
 </p>
 
-Credit: [what-if.xkcd.com/140](https://what-if.xkcd.com/140/))
+Credit: [what-if.xkcd.com/140](https://what-if.xkcd.com/140/)
 
 
