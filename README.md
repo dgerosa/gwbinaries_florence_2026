@@ -14,20 +14,19 @@ This is material for a PhD class I'm teaching at the PhD school *Theoretical Asp
 - https://agenda.infn.it/event/48713
 
 
-### Prerequisites
+### Setup
 
 This class assumes students have already seen and understood (well, that's a big word!) General Relativity at the graduate level, including general knowledge of tensor and vector calculus.
-I mostly follow Maggiore's 
+
+I mostly follow Maggiore's textbook (*"[Gravitational waves, Volume 1: theory and experiments](https://global.oup.com/academic/product/gravitational-waves-9780198570745?q=maggiore&lang=en&cc=it)"*). Indeed, numbering of section and equations in my notes refer to Maggiore's book. 
 
 
-Course Outline:
-Part I: Christopher Moore (lectures 1-3)
-The first module will give an overview of some of the mathematical background to general relativity: manifolds, the metric, tensors, covariant derivatives, the Riemannian curvature. We will then cover the linearised Einstein field equations and the Schwarzschild solution.
+## Careful...
 
-Part II: Davide Gerosa (lectures 4-6)
-This module covers the basics of gravitational wave emission and propagation: linearization of the Einstein field equations, their Newtonian limit, and the gravitational-wave quadrupole formula. We then apply this formalism to the specific case of binary black holes and highlight their astrophysical relevance.
+<p align="center">
+  <img src="https://what-if.xkcd.com/imgs/a/140/general.png" />
+</p>
+
+Credit: [what-if.xkcd.com/140](https://what-if.xkcd.com/140/))
 
 
-
-
-https://what-if.xkcd.com/imgs/a/140/general.png
