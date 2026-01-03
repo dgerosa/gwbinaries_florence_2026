@@ -5,7 +5,7 @@
 This is a PhD-level class on **"Gravitational waves from compact binaries"** of about 10 hours. I cover the principles of gravitational-wave propagation and emission, from the linearized Einstein equation, to the quadrupole formula. This formalism is then applied to the specific case of binary black holes, including their dynamics on eccentric orbits and gravitational-wave propagation on cosmological backgrounds. I then cover the theory behind gravitational-wave detectors with laser interferometers, including basics of matched filtering, parameter estimation, and population analyses.
 
 
-### Florence 2026
+## Florence 2026
 
 This is material for a PhD class I'm teaching at the PhD school *Theoretical Aspects of Astroparticle Physics, Cosmology and Gravitation*, taking place at the Galileo Galilei Institute for Theoretical Physics in Florence in March 2026.
 
@@ -13,7 +13,7 @@ This is material for a PhD class I'm teaching at the PhD school *Theoretical Asp
 - https://agenda.infn.it/event/48713
 
 
-### Setup
+## Setup
 
 This class assumes students have already seen and understood (well, that's a big word!) General Relativity at the graduate level, including general knowledge of tensor and vector calculus.
 
