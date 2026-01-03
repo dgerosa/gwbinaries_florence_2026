@@ -1,5 +1,8 @@
 # PhDschool_Florence_2026
 
+[Davide Gerosa](https://davidegerosa.com/)  - davide.gerosa@unimib.it  
+University of Milano-Bicocca, 2026.
+
 ## Aims
 
 This is a PhD-level class on **"Gravitational waves from compact binaries"** of about 10 hours. I cover the principles of gravitational-wave propagation and emission, from the linearized Einstein equation, to the quadrupole formula. This formalism is then applied to the specific case of binary black holes, including their dynamics on eccentric orbits and gravitational-wave propagation on cosmological backgrounds. I then cover the theory behind gravitational-wave detectors with laser interferometers, including basics of matched filtering, parameter estimation, and population analyses.
