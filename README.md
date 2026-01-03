@@ -4,4 +4,4 @@ This is material for a PhD class on **"Gravitational waves from compact binaries
 
 **Event Links:**
 - https://www.ggi.infn.it/showevent.pl?id=553
-- https://agenda.infn.it/event/48713/timetable/#20260303
+- https://agenda.infn.it/event/48713
