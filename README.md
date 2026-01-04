@@ -32,6 +32,7 @@ I mostly follow Maggiore's textbook (*"[Gravitational waves, Volume 1: theory an
 5. **[Matched filtering]**
 6. **[Detector response]**
 7. **[Parameter estimation and populations]**
+8. **[Astrophysical formation channels]**
 
 ## Example classes
 
