@@ -21,7 +21,7 @@ We put together material for a PhD class we're teaching at the PhD school *Theor
 
 This class assumes students have already seen and understood (well, that's a big word!) General Relativity at the graduate level, including general knowledge of tensor and vector calculus.
 
-I mostly follow Maggiore's textbook (*"[Gravitational waves, Volume 1: theory and experiments](https://global.oup.com/academic/product/gravitational-waves-9780198570745?q=maggiore&lang=en&cc=it)"*). Indeed, numbering of sections and equations in my notes refer to Maggiore's book.
+I mostly follow Maggiore's textbook (*"[Gravitational waves, Volume 1: theory and experiments](https://global.oup.com/academic/product/gravitational-waves-9780198570745?q=maggiore&lang=en&cc=it)"*). Indeed, numbering of sections and equations in Davide's notes refer to Maggiore's book.
 
 ## Lecture notes
 
