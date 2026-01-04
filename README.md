@@ -30,7 +30,7 @@ I mostly follow Maggiore's textbook (*"[Gravitational waves, Volume 1: theory an
 3. **[Binaries](lectures/03_binaries.pdf)**
 4. **[Cosmological background]**
 5. **[Matched filtering]**
-6. **[Interferometer response]**
+6. **[Detector response]**
 7. **[Parameter estimation and populations]**
 
 ## Example classes
