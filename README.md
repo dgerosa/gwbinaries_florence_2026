@@ -22,7 +22,7 @@ This class assumes students have already seen and understood (well, that's a big
 
 I mostly follow Maggiore's textbook (*"[Gravitational waves, Volume 1: theory and experiments](https://global.oup.com/academic/product/gravitational-waves-9780198570745?q=maggiore&lang=en&cc=it)"*). Indeed, numbering of sections and equations in my notes refer to Maggiore's book. Remember that commas next to indices in that book are not derivatives.
 
-## Lectures
+## Lecture notes
 
 1. **[GW propagation](lectures/L01_gwpropagation.pdf)**. Linearized gravity. Energy of GWs. Background vs perturbation. Energy flux.
 2. **[GW emission](lectures/L02_gwemission.pdf)**. Quadrupolar approximation. Leading-order emission. Radiated energy (quadrupole formula). Radiation reaction.
