@@ -1,4 +1,4 @@
-# PhDschool_Florence_2026
+# Gravitational waves from compact binaries
 
 [Davide Gerosa](https://davidegerosa.com/)  - davide.gerosa@unimib.it  
 University of Milano-Bicocca, 2026.
