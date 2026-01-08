@@ -12,7 +12,7 @@ This is a PhD-level class on **"Gravitational waves from compact binaries"** of 
 
 ## Florence 2026
 
-We put together material for a PhD class we're teaching at the PhD school *Theoretical Aspects of Astroparticle Physics, Cosmology and Gravitation*, taking place at the Galileo Galilei Institute for Theoretical Physics in Florence in March 2026. Lectures by Davide Gerosa, example classes by Caroline Owen.
+We prepared this material for a PhD course we're teaching at the PhD school *Theoretical Aspects of Astroparticle Physics, Cosmology and Gravitation*, which will take place at the Galileo Galilei Institute for Theoretical Physics in Florence in March 2026. Lectures by Davide Gerosa, example classes by Caroline Owen.
 
 - https://www.ggi.infn.it/showevent.pl?id=553
 - https://agenda.infn.it/event/48713
