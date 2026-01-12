@@ -7,8 +7,7 @@ University of Milano-Bicocca, 2026.
 
 ## Aims
 
-This is a PhD-level class on **"Gravitational waves from compact binaries"** of about 15 hours. We cover the principles of gravitational-wave propagation and emission, from the linearized Einstein equations to the quadrupole formula. This formalism is then applied to the specific case of binary black holes, including their dynamics on eccentric orbits and gravitational-wave propagation on cosmological backgrounds. We then cover the theory behind gravitational-wave detectors with laser interferometers, including basics of matched filtering, parameter estimation, and population analyses.
-
+This is a PhD-level class on **"Gravitational waves from compact binaries"** of about 15 hours. We cover the principles of gravitational-wave propagation and emission, from the linearized Einstein equations to the quadrupole formula. This formalism is then applied to the specific case of binary black holes, including their dynamics on eccentric orbits and gravitational-wave propagation on cosmological backgrounds. We then cover the theory behind gravitational-wave detectors with laser interferometers, including basics of matched filtering. 
 
 ## Florence 2026
 
@@ -32,8 +31,7 @@ I mostly follow Maggiore's textbook (*"[Gravitational waves, Volume 1: theory an
 4. **[Binaries (part 2)](lectures/L04_binaries2.pdf)** Eccentric orbits. Peters equations. Orbit circularization. Propagation in cosmological background. Redshifted mass.  
 5. **[Matched filtering]**
 6. **[Detector response]**
-7. **[Parameter estimation and populations]**
-8. **[Astrophysical formation channels]**
+
 
 ## Example classes (Caroline Owen)
 
