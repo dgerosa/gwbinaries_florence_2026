@@ -29,7 +29,7 @@ I mostly follow Maggiore's textbook (*"[Gravitational waves, Volume 1: theory an
 1. **[GW propagation](lectures/L01_gwpropagation.pdf)**. Linearized gravity. Energy of GWs. Background vs perturbation. Energy flux.
 2. **[GW emission](lectures/L02_gwemission.pdf)**. Quadrupolar approximation. Leading-order emission. Radiated energy (quadrupole formula). Radiation reaction.
 3. **[Binaries (part 1)](lectures/L03_binaries1.pdf)** Fixed circular orbits. Angular pattern. Quasi-circular orbits with backreaction. Inspiral timescale. Chirp signal.
-4. **[Binaries (part 2)](lectures/L04_binaries2.pdf)** Eccentric orbits. Timing formula. Peters equations. Orbit circularization. Propagation in cosmological background. Source frame vs. detector frame. Redshifted mass.  
+4. **[Binaries (part 2)](lectures/L04_binaries2.pdf)** Eccentric orbits. Timing formula. Peters equations. Orbit circularization. Propagation in cosmological background. Redshifted mass.  
 5. **[Matched filtering]**
 6. **[Detector response]**
 7. **[Parameter estimation and populations]**
