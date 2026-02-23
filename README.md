@@ -13,9 +13,9 @@ This is a PhD-level class on **"Gravitational waves from compact binaries"** of 
 
 We prepared this material for a PhD course we're teaching at the PhD school *Theoretical Aspects of Astroparticle Physics, Cosmology and Gravitation*, which will take place at the Galileo Galilei Institute for Theoretical Physics in Florence in March 2026. Lectures by Davide Gerosa, example classes by Caroline Owen.
 
-- Event page: [https://www.ggi.infn.it/showevent.pl?id=553](www.ggi.infn.it/showevent.pl?id=553)
-- Timetable: [https://agenda.infn.it/event/48713](agenda.infn.it/event/48713)
-- Just a better rendering... [https://dgerosa.github.io/gwbinaries_florence_2026](dgerosa.github.io/gwbinaries_florence_2026)
+- Event page: [www.ggi.infn.it/showevent.pl?id=553](https://www.ggi.infn.it/showevent.pl?id=553)
+- Timetable: [agenda.infn.it/event/48713](https://agenda.infn.it/event/48713)
+- Just a better rendering... [dgerosa.github.io/gwbinaries_florence_2026](https://dgerosa.github.io/gwbinaries_florence_2026)
 
 
 ## Prerequisites
