@@ -30,7 +30,7 @@ I mostly follow Maggiore's textbook (*"[Gravitational waves, Volume 1: theory an
 2. **[GW emission](lectures/L02_gwemission.pdf)**. Quadrupolar approximation. Leading-order emission. Radiated energy (quadrupole formula). Radiation reaction.
 3. **[Binaries (part 1)](lectures/L03_binaries1.pdf)** Fixed circular orbits. Angular pattern. Quasi-circular orbits with backreaction. Inspiral timescale. Chirp signal.
 4. **[Binaries (part 2)](lectures/L04_binaries2.pdf)** Eccentric orbits. Peters equations. Orbit circularization. Propagation in cosmological background. Redshifted mass.  
-5. **[GW detection](lectures/L05_gwdetection.pdf)** Theory of GW detection. Interaction with GW and test masses. TT frame. Laboratory frame. Detector response. Beam patterns for interferometers.
+5. **[GW detection](lectures/L05_gwdetection.pdf)** Interaction with GW - test masses. TT frame. Laboratory frame. Detector response. Beam patterns for interferometers.
 
 
 ## Example classes (Caroline Owen)
