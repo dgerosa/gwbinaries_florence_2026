@@ -35,9 +35,9 @@ I mostly follow Maggiore's textbook (*"[Gravitational waves, Volume 1: theory an
 
 ## Example classes (Caroline Owen)
 
-1. **Dimensional analysis and Fermi Estimates**
-2. **[Stationary Phase Approximation](examples/E02_SPA.pdf)**
-3. **Bilby Tutorial**
+1. **Dimensional analysis and Fermi estimates**
+2. **[Stationary phase approximation](examples/E02_SPA.pdf)**
+3. **Bilby tutorial**
 
 ## Careful...
 
